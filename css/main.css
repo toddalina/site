@@ -1,0 +1,55 @@
+/*body {
+    background-color: #4bab51;
+    background-color: #006480;
+}*/
+
+body {
+	background-color: #464646;
+}
+
+.tile {
+	width: 200px;
+	height: 150px;
+	vertical-align:middle;
+	text-align: center;
+	letter-spacing: 2px;
+	font-size: 2em;
+	color: #FCFAD0;
+}
+
+#tile1 {
+	position: absolute;
+	left: 50px;
+	top: 150px;
+	background-color: #64C733;
+	font-family: 'Lato', sans-serif;
+}
+
+#tile2 {
+	position: absolute;
+	left: 265px;
+	top: 150px;
+	background-color: #2980F2;
+	font-family: 'Duru Sans', sans-serif;
+}
+
+#tile3 {
+	position: absolute;
+	left: 50px;
+	top: 315px;
+	background-color: #FF530D;
+	font-family: 'Quicksand', sans-serif;
+}
+
+/*
+	Possible fonts: Raleway, Quicksand
+	Muli: 300, 1px separation
+	Duru Sans
+	?Lato?
+	Cantarell
+	poirot one
+	
+	Themes: 
+	http://kuler.adobe.com/#themeID/1781582
+	Personal one on kuler
+*/
